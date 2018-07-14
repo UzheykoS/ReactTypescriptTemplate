@@ -1,0 +1,1114 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\Web\\External\\Node.exe',
+1 verbose cli   'C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\Web\\External\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install' ]
+2 info using npm@3.3.4
+3 info using node@v5.4.1
+4 silly loadCurrentTree Starting
+5 silly install loadCurrentTree
+6 silly install readLocalPackageData
+7 silly install normalizeTree
+8 silly loadCurrentTree Finishing
+9 silly loadIdealTree Starting
+10 silly install loadIdealTree
+11 silly cloneCurrentTree Starting
+12 silly install cloneCurrentTreeToIdealTree
+13 silly cloneCurrentTree Finishing
+14 silly loadShrinkwrap Starting
+15 silly install loadShrinkwrap
+16 silly loadShrinkwrap Finishing
+17 silly loadAllDepsIntoIdealTree Starting
+18 silly install loadAllDepsIntoIdealTree
+19 silly fetchNamedPackageData @types/node
+20 silly mapToRegistry name @types/node
+21 silly mapToRegistry scope (from package name) @types
+22 verbose mapToRegistry no registry URL found in name for scope @types
+23 silly mapToRegistry using default registry
+24 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+25 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/@types%2fnode
+26 silly fetchNamedPackageData @types/react
+27 silly mapToRegistry name @types/react
+28 silly mapToRegistry scope (from package name) @types
+29 verbose mapToRegistry no registry URL found in name for scope @types
+30 silly mapToRegistry using default registry
+31 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+32 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/@types%2freact
+33 silly fetchNamedPackageData @types/react-dom
+34 silly mapToRegistry name @types/react-dom
+35 silly mapToRegistry scope (from package name) @types
+36 verbose mapToRegistry no registry URL found in name for scope @types
+37 silly mapToRegistry using default registry
+38 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+39 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/@types%2freact-dom
+40 silly fetchNamedPackageData @types/webpack
+41 silly mapToRegistry name @types/webpack
+42 silly mapToRegistry scope (from package name) @types
+43 verbose mapToRegistry no registry URL found in name for scope @types
+44 silly mapToRegistry using default registry
+45 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+46 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/@types%2fwebpack
+47 silly fetchNamedPackageData @types/webpack-env
+48 silly mapToRegistry name @types/webpack-env
+49 silly mapToRegistry scope (from package name) @types
+50 verbose mapToRegistry no registry URL found in name for scope @types
+51 silly mapToRegistry using default registry
+52 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+53 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/@types%2fwebpack-env
+54 silly fetchNamedPackageData altareturn-ui-controls
+55 silly mapToRegistry name altareturn-ui-controls
+56 silly mapToRegistry using default registry
+57 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+58 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/altareturn-ui-controls
+59 silly fetchNamedPackageData axios
+60 silly mapToRegistry name axios
+61 silly mapToRegistry using default registry
+62 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+63 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/axios
+64 silly fetchNamedPackageData babel-cli
+65 silly mapToRegistry name babel-cli
+66 silly mapToRegistry using default registry
+67 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+68 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/babel-cli
+69 silly fetchNamedPackageData babel-core
+70 silly mapToRegistry name babel-core
+71 silly mapToRegistry using default registry
+72 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+73 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/babel-core
+74 silly fetchNamedPackageData babel-loader
+75 silly mapToRegistry name babel-loader
+76 silly mapToRegistry using default registry
+77 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+78 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/babel-loader
+79 silly fetchNamedPackageData babel-plugin-transform-es2015-arrow-functions
+80 silly mapToRegistry name babel-plugin-transform-es2015-arrow-functions
+81 silly mapToRegistry using default registry
+82 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+83 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/babel-plugin-transform-es2015-arrow-functions
+84 silly fetchNamedPackageData babel-polyfill
+85 silly mapToRegistry name babel-polyfill
+86 silly mapToRegistry using default registry
+87 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+88 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/babel-polyfill
+89 silly fetchNamedPackageData babel-preset-es2015
+90 silly mapToRegistry name babel-preset-es2015
+91 silly mapToRegistry using default registry
+92 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+93 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/babel-preset-es2015
+94 silly fetchNamedPackageData babel-preset-stage-0
+95 silly mapToRegistry name babel-preset-stage-0
+96 silly mapToRegistry using default registry
+97 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+98 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/babel-preset-stage-0
+99 silly fetchNamedPackageData css-loader
+100 silly mapToRegistry name css-loader
+101 silly mapToRegistry using default registry
+102 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+103 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/css-loader
+104 silly fetchNamedPackageData html-webpack-plugin
+105 silly mapToRegistry name html-webpack-plugin
+106 silly mapToRegistry using default registry
+107 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+108 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/html-webpack-plugin
+109 silly fetchNamedPackageData http-server
+110 silly mapToRegistry name http-server
+111 silly mapToRegistry using default registry
+112 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+113 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/http-server
+114 silly fetchNamedPackageData node-sass
+115 silly mapToRegistry name node-sass
+116 silly mapToRegistry using default registry
+117 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+118 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/node-sass
+119 silly fetchNamedPackageData react
+120 silly mapToRegistry name react
+121 silly mapToRegistry using default registry
+122 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+123 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/react
+124 silly fetchNamedPackageData react-dom
+125 silly mapToRegistry name react-dom
+126 silly mapToRegistry using default registry
+127 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+128 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/react-dom
+129 silly fetchNamedPackageData sass-loader
+130 silly mapToRegistry name sass-loader
+131 silly mapToRegistry using default registry
+132 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+133 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/sass-loader
+134 silly fetchNamedPackageData source-map-loader
+135 silly mapToRegistry name source-map-loader
+136 silly mapToRegistry using default registry
+137 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+138 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/source-map-loader
+139 silly fetchNamedPackageData style-loader
+140 silly mapToRegistry name style-loader
+141 silly mapToRegistry using default registry
+142 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+143 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/style-loader
+144 silly fetchNamedPackageData ts-loader
+145 silly mapToRegistry name ts-loader
+146 silly mapToRegistry using default registry
+147 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+148 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/ts-loader
+149 silly fetchNamedPackageData ts-node
+150 silly mapToRegistry name ts-node
+151 silly mapToRegistry using default registry
+152 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+153 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/ts-node
+154 silly fetchNamedPackageData typescript
+155 silly mapToRegistry name typescript
+156 silly mapToRegistry using default registry
+157 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+158 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/typescript
+159 silly fetchNamedPackageData typings
+160 silly mapToRegistry name typings
+161 silly mapToRegistry using default registry
+162 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+163 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/typings
+164 silly fetchNamedPackageData typings-for-css-modules-loader
+165 silly mapToRegistry name typings-for-css-modules-loader
+166 silly mapToRegistry using default registry
+167 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+168 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/typings-for-css-modules-loader
+169 silly fetchNamedPackageData uglifyjs-webpack-plugin
+170 silly mapToRegistry name uglifyjs-webpack-plugin
+171 silly mapToRegistry using default registry
+172 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+173 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/uglifyjs-webpack-plugin
+174 silly fetchNamedPackageData webpack
+175 silly mapToRegistry name webpack
+176 silly mapToRegistry using default registry
+177 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+178 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/webpack
+179 silly fetchNamedPackageData sinon
+180 silly mapToRegistry name sinon
+181 silly mapToRegistry using default registry
+182 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+183 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/sinon
+184 silly fetchNamedPackageData phantomjs-polyfill-object-assign
+185 silly mapToRegistry name phantomjs-polyfill-object-assign
+186 silly mapToRegistry using default registry
+187 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+188 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/phantomjs-polyfill-object-assign
+189 silly fetchNamedPackageData phantomjs-prebuilt
+190 silly mapToRegistry name phantomjs-prebuilt
+191 silly mapToRegistry using default registry
+192 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+193 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/phantomjs-prebuilt
+194 silly fetchNamedPackageData istanbul-instrumenter-loader
+195 silly mapToRegistry name istanbul-instrumenter-loader
+196 silly mapToRegistry using default registry
+197 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+198 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/istanbul-instrumenter-loader
+199 silly fetchNamedPackageData karma
+200 silly mapToRegistry name karma
+201 silly mapToRegistry using default registry
+202 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+203 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma
+204 silly fetchNamedPackageData karma-chai
+205 silly mapToRegistry name karma-chai
+206 silly mapToRegistry using default registry
+207 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+208 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-chai
+209 silly fetchNamedPackageData karma-chrome-launcher
+210 silly mapToRegistry name karma-chrome-launcher
+211 silly mapToRegistry using default registry
+212 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+213 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-chrome-launcher
+214 silly fetchNamedPackageData karma-coverage
+215 silly mapToRegistry name karma-coverage
+216 silly mapToRegistry using default registry
+217 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+218 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-coverage
+219 silly fetchNamedPackageData karma-es6-shim
+220 silly mapToRegistry name karma-es6-shim
+221 silly mapToRegistry using default registry
+222 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+223 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-es6-shim
+224 silly fetchNamedPackageData karma-junit-reporter
+225 silly mapToRegistry name karma-junit-reporter
+226 silly mapToRegistry using default registry
+227 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+228 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-junit-reporter
+229 silly fetchNamedPackageData karma-mocha
+230 silly mapToRegistry name karma-mocha
+231 silly mapToRegistry using default registry
+232 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+233 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-mocha
+234 silly fetchNamedPackageData karma-mocha-reporter
+235 silly mapToRegistry name karma-mocha-reporter
+236 silly mapToRegistry using default registry
+237 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+238 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-mocha-reporter
+239 silly fetchNamedPackageData karma-phantomjs-launcher
+240 silly mapToRegistry name karma-phantomjs-launcher
+241 silly mapToRegistry using default registry
+242 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+243 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-phantomjs-launcher
+244 silly fetchNamedPackageData karma-remap-coverage
+245 silly mapToRegistry name karma-remap-coverage
+246 silly mapToRegistry using default registry
+247 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+248 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-remap-coverage
+249 silly fetchNamedPackageData karma-sinon
+250 silly mapToRegistry name karma-sinon
+251 silly mapToRegistry using default registry
+252 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+253 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-sinon
+254 silly fetchNamedPackageData karma-source-map-support
+255 silly mapToRegistry name karma-source-map-support
+256 silly mapToRegistry using default registry
+257 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+258 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-source-map-support
+259 silly fetchNamedPackageData karma-sourcemap-loader
+260 silly mapToRegistry name karma-sourcemap-loader
+261 silly mapToRegistry using default registry
+262 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+263 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-sourcemap-loader
+264 silly fetchNamedPackageData karma-typescript
+265 silly mapToRegistry name karma-typescript
+266 silly mapToRegistry using default registry
+267 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+268 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-typescript
+269 silly fetchNamedPackageData karma-webpack
+270 silly mapToRegistry name karma-webpack
+271 silly mapToRegistry using default registry
+272 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+273 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-webpack
+274 silly fetchNamedPackageData mocha
+275 silly mapToRegistry name mocha
+276 silly mapToRegistry using default registry
+277 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+278 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/mocha
+279 silly fetchNamedPackageData enzyme
+280 silly mapToRegistry name enzyme
+281 silly mapToRegistry using default registry
+282 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+283 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/enzyme
+284 silly fetchNamedPackageData chai
+285 silly mapToRegistry name chai
+286 silly mapToRegistry using default registry
+287 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+288 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/chai
+289 silly fetchNamedPackageData @types/mocha
+290 silly mapToRegistry name @types/mocha
+291 silly mapToRegistry scope (from package name) @types
+292 verbose mapToRegistry no registry URL found in name for scope @types
+293 silly mapToRegistry using default registry
+294 silly mapToRegistry registry https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry
+295 silly mapToRegistry uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/@types%2fmocha
+296 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/@types%2fnode
+297 verbose request always-auth set; sending authorization
+298 info attempt registry request try #1 at 9:05:17 PM
+299 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+300 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/@types%2freact
+301 verbose request always-auth set; sending authorization
+302 info attempt registry request try #1 at 9:05:17 PM
+303 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+304 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/@types%2freact-dom
+305 verbose request always-auth set; sending authorization
+306 info attempt registry request try #1 at 9:05:17 PM
+307 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+308 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/@types%2fwebpack
+309 verbose request always-auth set; sending authorization
+310 info attempt registry request try #1 at 9:05:17 PM
+311 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+312 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/@types%2fwebpack-env
+313 verbose request always-auth set; sending authorization
+314 info attempt registry request try #1 at 9:05:17 PM
+315 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+316 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/altareturn-ui-controls
+317 verbose request always-auth set; sending authorization
+318 info attempt registry request try #1 at 9:05:17 PM
+319 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+320 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/axios
+321 verbose request always-auth set; sending authorization
+322 info attempt registry request try #1 at 9:05:17 PM
+323 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+324 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/babel-cli
+325 verbose request always-auth set; sending authorization
+326 info attempt registry request try #1 at 9:05:17 PM
+327 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+328 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/babel-core
+329 verbose request always-auth set; sending authorization
+330 info attempt registry request try #1 at 9:05:17 PM
+331 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+332 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/babel-loader
+333 verbose request always-auth set; sending authorization
+334 info attempt registry request try #1 at 9:05:17 PM
+335 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+336 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/babel-plugin-transform-es2015-arrow-functions
+337 verbose request always-auth set; sending authorization
+338 info attempt registry request try #1 at 9:05:17 PM
+339 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+340 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/babel-polyfill
+341 verbose request always-auth set; sending authorization
+342 info attempt registry request try #1 at 9:05:17 PM
+343 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+344 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/babel-preset-es2015
+345 verbose request always-auth set; sending authorization
+346 info attempt registry request try #1 at 9:05:17 PM
+347 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+348 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/babel-preset-stage-0
+349 verbose request always-auth set; sending authorization
+350 info attempt registry request try #1 at 9:05:17 PM
+351 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+352 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/css-loader
+353 verbose request always-auth set; sending authorization
+354 info attempt registry request try #1 at 9:05:17 PM
+355 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+356 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/html-webpack-plugin
+357 verbose request always-auth set; sending authorization
+358 info attempt registry request try #1 at 9:05:17 PM
+359 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+360 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/http-server
+361 verbose request always-auth set; sending authorization
+362 info attempt registry request try #1 at 9:05:17 PM
+363 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+364 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/node-sass
+365 verbose request always-auth set; sending authorization
+366 info attempt registry request try #1 at 9:05:17 PM
+367 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+368 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/react
+369 verbose request always-auth set; sending authorization
+370 info attempt registry request try #1 at 9:05:17 PM
+371 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+372 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/react-dom
+373 verbose request always-auth set; sending authorization
+374 info attempt registry request try #1 at 9:05:17 PM
+375 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+376 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/sass-loader
+377 verbose request always-auth set; sending authorization
+378 info attempt registry request try #1 at 9:05:17 PM
+379 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+380 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/source-map-loader
+381 verbose request always-auth set; sending authorization
+382 info attempt registry request try #1 at 9:05:17 PM
+383 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+384 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/style-loader
+385 verbose request always-auth set; sending authorization
+386 info attempt registry request try #1 at 9:05:17 PM
+387 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+388 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/ts-loader
+389 verbose request always-auth set; sending authorization
+390 info attempt registry request try #1 at 9:05:17 PM
+391 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+392 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/ts-node
+393 verbose request always-auth set; sending authorization
+394 info attempt registry request try #1 at 9:05:17 PM
+395 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+396 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/typescript
+397 verbose request always-auth set; sending authorization
+398 info attempt registry request try #1 at 9:05:17 PM
+399 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+400 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/typings
+401 verbose request always-auth set; sending authorization
+402 info attempt registry request try #1 at 9:05:17 PM
+403 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+404 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/typings-for-css-modules-loader
+405 verbose request always-auth set; sending authorization
+406 info attempt registry request try #1 at 9:05:17 PM
+407 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+408 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/uglifyjs-webpack-plugin
+409 verbose request always-auth set; sending authorization
+410 info attempt registry request try #1 at 9:05:17 PM
+411 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+412 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/webpack
+413 verbose request always-auth set; sending authorization
+414 info attempt registry request try #1 at 9:05:17 PM
+415 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+416 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/sinon
+417 verbose request always-auth set; sending authorization
+418 info attempt registry request try #1 at 9:05:17 PM
+419 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+420 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/phantomjs-polyfill-object-assign
+421 verbose request always-auth set; sending authorization
+422 info attempt registry request try #1 at 9:05:17 PM
+423 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+424 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/phantomjs-prebuilt
+425 verbose request always-auth set; sending authorization
+426 info attempt registry request try #1 at 9:05:17 PM
+427 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+428 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/istanbul-instrumenter-loader
+429 verbose request always-auth set; sending authorization
+430 info attempt registry request try #1 at 9:05:17 PM
+431 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+432 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma
+433 verbose request always-auth set; sending authorization
+434 info attempt registry request try #1 at 9:05:17 PM
+435 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+436 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-chai
+437 verbose request always-auth set; sending authorization
+438 info attempt registry request try #1 at 9:05:17 PM
+439 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+440 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-chrome-launcher
+441 verbose request always-auth set; sending authorization
+442 info attempt registry request try #1 at 9:05:17 PM
+443 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+444 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-coverage
+445 verbose request always-auth set; sending authorization
+446 info attempt registry request try #1 at 9:05:17 PM
+447 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+448 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-es6-shim
+449 verbose request always-auth set; sending authorization
+450 info attempt registry request try #1 at 9:05:17 PM
+451 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+452 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-junit-reporter
+453 verbose request always-auth set; sending authorization
+454 info attempt registry request try #1 at 9:05:17 PM
+455 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+456 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-mocha
+457 verbose request always-auth set; sending authorization
+458 info attempt registry request try #1 at 9:05:17 PM
+459 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+460 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-mocha-reporter
+461 verbose request always-auth set; sending authorization
+462 info attempt registry request try #1 at 9:05:17 PM
+463 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+464 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-phantomjs-launcher
+465 verbose request always-auth set; sending authorization
+466 info attempt registry request try #1 at 9:05:17 PM
+467 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+468 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-remap-coverage
+469 verbose request always-auth set; sending authorization
+470 info attempt registry request try #1 at 9:05:17 PM
+471 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+472 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-sinon
+473 verbose request always-auth set; sending authorization
+474 info attempt registry request try #1 at 9:05:17 PM
+475 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+476 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-source-map-support
+477 verbose request always-auth set; sending authorization
+478 info attempt registry request try #1 at 9:05:17 PM
+479 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+480 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-sourcemap-loader
+481 verbose request always-auth set; sending authorization
+482 info attempt registry request try #1 at 9:05:17 PM
+483 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+484 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-typescript
+485 verbose request always-auth set; sending authorization
+486 info attempt registry request try #1 at 9:05:17 PM
+487 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+488 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/karma-webpack
+489 verbose request always-auth set; sending authorization
+490 info attempt registry request try #1 at 9:05:17 PM
+491 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+492 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/mocha
+493 verbose request always-auth set; sending authorization
+494 info attempt registry request try #1 at 9:05:17 PM
+495 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+496 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/enzyme
+497 verbose request always-auth set; sending authorization
+498 info attempt registry request try #1 at 9:05:17 PM
+499 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+500 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/chai
+501 verbose request always-auth set; sending authorization
+502 info attempt registry request try #1 at 9:05:17 PM
+503 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+504 verbose request uri https://tfs.altareturn.com:8443/tfs/Vertice%20TFS/_packaging/Vertice/npm/registry/@types%2fmocha
+505 verbose request always-auth set; sending authorization
+506 info attempt registry request try #1 at 9:05:17 PM
+507 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+508 info attempt registry request try #2 at 9:05:27 PM
+509 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+510 info attempt registry request try #2 at 9:05:27 PM
+511 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+512 info attempt registry request try #2 at 9:05:27 PM
+513 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+514 info attempt registry request try #2 at 9:05:27 PM
+515 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+516 info attempt registry request try #2 at 9:05:27 PM
+517 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+518 info attempt registry request try #2 at 9:05:27 PM
+519 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+520 info attempt registry request try #2 at 9:05:27 PM
+521 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+522 info attempt registry request try #2 at 9:05:27 PM
+523 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+524 info attempt registry request try #2 at 9:05:27 PM
+525 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+526 info attempt registry request try #2 at 9:05:27 PM
+527 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+528 info attempt registry request try #2 at 9:05:27 PM
+529 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+530 info attempt registry request try #2 at 9:05:27 PM
+531 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+532 info attempt registry request try #2 at 9:05:27 PM
+533 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+534 info attempt registry request try #2 at 9:05:27 PM
+535 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+536 info attempt registry request try #2 at 9:05:27 PM
+537 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+538 info attempt registry request try #2 at 9:05:27 PM
+539 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+540 info attempt registry request try #2 at 9:05:27 PM
+541 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+542 info attempt registry request try #2 at 9:05:27 PM
+543 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+544 info attempt registry request try #2 at 9:05:27 PM
+545 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+546 info attempt registry request try #2 at 9:05:27 PM
+547 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+548 info attempt registry request try #2 at 9:05:27 PM
+549 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+550 info attempt registry request try #2 at 9:05:27 PM
+551 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+552 info attempt registry request try #2 at 9:05:27 PM
+553 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+554 info attempt registry request try #2 at 9:05:27 PM
+555 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+556 info attempt registry request try #2 at 9:05:27 PM
+557 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+558 info attempt registry request try #2 at 9:05:27 PM
+559 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+560 info attempt registry request try #2 at 9:05:27 PM
+561 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+562 info attempt registry request try #2 at 9:05:27 PM
+563 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+564 info attempt registry request try #2 at 9:05:27 PM
+565 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+566 info attempt registry request try #2 at 9:05:27 PM
+567 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+568 info attempt registry request try #2 at 9:05:27 PM
+569 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+570 info attempt registry request try #2 at 9:05:27 PM
+571 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+572 info attempt registry request try #2 at 9:05:27 PM
+573 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+574 info attempt registry request try #2 at 9:05:27 PM
+575 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+576 info attempt registry request try #2 at 9:05:27 PM
+577 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+578 info attempt registry request try #2 at 9:05:27 PM
+579 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+580 info attempt registry request try #2 at 9:05:27 PM
+581 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+582 info attempt registry request try #2 at 9:05:27 PM
+583 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+584 info attempt registry request try #2 at 9:05:27 PM
+585 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+586 info attempt registry request try #2 at 9:05:27 PM
+587 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+588 info attempt registry request try #2 at 9:05:27 PM
+589 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+590 info attempt registry request try #2 at 9:05:27 PM
+591 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+592 info attempt registry request try #2 at 9:05:27 PM
+593 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+594 info attempt registry request try #2 at 9:05:27 PM
+595 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+596 info attempt registry request try #2 at 9:05:27 PM
+597 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+598 info attempt registry request try #2 at 9:05:27 PM
+599 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+600 info attempt registry request try #2 at 9:05:27 PM
+601 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+602 info attempt registry request try #2 at 9:05:27 PM
+603 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+604 info attempt registry request try #2 at 9:05:27 PM
+605 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+606 info attempt registry request try #2 at 9:05:27 PM
+607 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+608 info attempt registry request try #2 at 9:05:27 PM
+609 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+610 info attempt registry request try #2 at 9:05:27 PM
+611 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+612 info attempt registry request try #2 at 9:05:27 PM
+613 info retry will retry, error on last attempt: Error: This request requires auth credentials. Run `npm login` and repeat the request.
+614 info attempt registry request try #3 at 9:06:27 PM
+615 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+615 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+615 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+615 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+615 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+615 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+615 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+615 silly fetchPackageMetaData  error for @types/node@8.0.26 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+616 info attempt registry request try #3 at 9:06:27 PM
+617 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+617 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+617 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+617 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+617 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+617 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+617 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+617 silly fetchPackageMetaData  error for @types/react@16.0.5 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+618 info attempt registry request try #3 at 9:06:27 PM
+619 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+619 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+619 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+619 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+619 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+619 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+619 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+619 silly fetchPackageMetaData  error for @types/react-dom@15.5.4 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+620 info attempt registry request try #3 at 9:06:27 PM
+621 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+621 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+621 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+621 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+621 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+621 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+621 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+621 silly fetchPackageMetaData  error for @types/webpack@3.0.11 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+622 info attempt registry request try #3 at 9:06:27 PM
+623 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+623 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+623 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+623 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+623 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+623 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+623 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+623 silly fetchPackageMetaData  error for @types/webpack-env@1.13.1 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+624 info attempt registry request try #3 at 9:06:27 PM
+625 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+625 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+625 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+625 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+625 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+625 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+625 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+625 silly fetchPackageMetaData  error for altareturn-ui-controls@1.1.27 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+626 info attempt registry request try #3 at 9:06:27 PM
+627 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+627 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+627 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+627 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+627 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+627 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+627 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+627 silly fetchPackageMetaData  error for axios@0.16.2 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+628 info attempt registry request try #3 at 9:06:27 PM
+629 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+629 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+629 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+629 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+629 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+629 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+629 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+629 silly fetchPackageMetaData  error for babel-cli@6.26.0 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+630 info attempt registry request try #3 at 9:06:27 PM
+631 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+631 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+631 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+631 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+631 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+631 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+631 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+631 silly fetchPackageMetaData  error for babel-core@6.26.0 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+632 info attempt registry request try #3 at 9:06:27 PM
+633 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+633 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+633 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+633 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+633 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+633 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+633 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+633 silly fetchPackageMetaData  error for babel-loader@7.1.2 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+634 info attempt registry request try #3 at 9:06:27 PM
+635 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+635 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+635 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+635 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+635 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+635 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+635 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+635 silly fetchPackageMetaData  error for babel-plugin-transform-es2015-arrow-functions@6.22.0 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+636 info attempt registry request try #3 at 9:06:27 PM
+637 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+637 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+637 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+637 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+637 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+637 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+637 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+637 silly fetchPackageMetaData  error for babel-polyfill@6.26.0 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+638 info attempt registry request try #3 at 9:06:27 PM
+639 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+639 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+639 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+639 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+639 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+639 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+639 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+639 silly fetchPackageMetaData  error for babel-preset-es2015@6.24.1 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+640 info attempt registry request try #3 at 9:06:27 PM
+641 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+641 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+641 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+641 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+641 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+641 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+641 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+641 silly fetchPackageMetaData  error for babel-preset-stage-0@6.24.1 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+642 info attempt registry request try #3 at 9:06:27 PM
+643 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+643 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+643 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+643 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+643 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+643 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+643 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+643 silly fetchPackageMetaData  error for css-loader@0.28.7 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+644 info attempt registry request try #3 at 9:06:27 PM
+645 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+645 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+645 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+645 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+645 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+645 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+645 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+645 silly fetchPackageMetaData  error for html-webpack-plugin@2.30.1 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+646 info attempt registry request try #3 at 9:06:27 PM
+647 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+647 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+647 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+647 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+647 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+647 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+647 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+647 silly fetchPackageMetaData  error for http-server@0.10.0 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+648 info attempt registry request try #3 at 9:06:27 PM
+649 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+649 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+649 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+649 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+649 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+649 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+649 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+649 silly fetchPackageMetaData  error for node-sass@4.5.3 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+650 info attempt registry request try #3 at 9:06:27 PM
+651 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+651 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+651 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+651 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+651 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+651 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+651 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+651 silly fetchPackageMetaData  error for react@15.6.1 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+652 info attempt registry request try #3 at 9:06:27 PM
+653 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+653 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+653 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+653 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+653 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+653 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+653 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+653 silly fetchPackageMetaData  error for react-dom@15.6.1 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+654 info attempt registry request try #3 at 9:06:27 PM
+655 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+655 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+655 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+655 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+655 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+655 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+655 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+655 silly fetchPackageMetaData  error for sass-loader@6.0.6 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+656 info attempt registry request try #3 at 9:06:27 PM
+657 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+657 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+657 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+657 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+657 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+657 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+657 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+657 silly fetchPackageMetaData  error for source-map-loader@0.2.1 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+658 info attempt registry request try #3 at 9:06:27 PM
+659 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+659 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+659 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+659 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+659 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+659 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+659 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+659 silly fetchPackageMetaData  error for style-loader@0.18.2 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+660 info attempt registry request try #3 at 9:06:27 PM
+661 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+661 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+661 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+661 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+661 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+661 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+661 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+661 silly fetchPackageMetaData  error for ts-loader@2.3.7 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+662 info attempt registry request try #3 at 9:06:27 PM
+663 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+663 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+663 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+663 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+663 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+663 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+663 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+663 silly fetchPackageMetaData  error for ts-node@3.3.0 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+664 info attempt registry request try #3 at 9:06:27 PM
+665 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+665 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+665 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+665 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+665 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+665 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+665 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+665 silly fetchPackageMetaData  error for typescript@2.5.2 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+666 info attempt registry request try #3 at 9:06:27 PM
+667 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+667 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+667 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+667 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+667 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+667 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+667 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+667 silly fetchPackageMetaData  error for typings@2.1.1 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+668 info attempt registry request try #3 at 9:06:27 PM
+669 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+669 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+669 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+669 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+669 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+669 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+669 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+669 silly fetchPackageMetaData  error for typings-for-css-modules-loader@1.6.0 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+670 info attempt registry request try #3 at 9:06:27 PM
+671 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+671 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+671 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+671 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+671 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+671 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+671 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+671 silly fetchPackageMetaData  error for uglifyjs-webpack-plugin@0.4.6 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+672 info attempt registry request try #3 at 9:06:27 PM
+673 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+673 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+673 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+673 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+673 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+673 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+673 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+673 silly fetchPackageMetaData  error for webpack@3.6.0 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+674 info attempt registry request try #3 at 9:06:27 PM
+675 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+675 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+675 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+675 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+675 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+675 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+675 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+675 silly fetchPackageMetaData  error for sinon@2.3.5 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+676 info attempt registry request try #3 at 9:06:27 PM
+677 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+677 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+677 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+677 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+677 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+677 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+677 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+677 silly fetchPackageMetaData  error for phantomjs-polyfill-object-assign@0.0.2 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+678 info attempt registry request try #3 at 9:06:27 PM
+679 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+679 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+679 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+679 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+679 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+679 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+679 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+679 silly fetchPackageMetaData  error for phantomjs-prebuilt@2.1.14 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+680 info attempt registry request try #3 at 9:06:27 PM
+681 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+681 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+681 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+681 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+681 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+681 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+681 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+681 silly fetchPackageMetaData  error for istanbul-instrumenter-loader@2.0.0 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+682 info attempt registry request try #3 at 9:06:27 PM
+683 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+683 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+683 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+683 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+683 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+683 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+683 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+683 silly fetchPackageMetaData  error for karma@1.7.0 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+684 info attempt registry request try #3 at 9:06:27 PM
+685 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+685 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+685 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+685 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+685 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+685 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+685 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+685 silly fetchPackageMetaData  error for karma-chai@0.1.0 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+686 info attempt registry request try #3 at 9:06:27 PM
+687 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+687 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+687 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+687 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+687 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+687 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+687 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+687 silly fetchPackageMetaData  error for karma-chrome-launcher@2.1.1 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+688 info attempt registry request try #3 at 9:06:27 PM
+689 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+689 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+689 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+689 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+689 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+689 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+689 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+689 silly fetchPackageMetaData  error for karma-coverage@1.1.1 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+690 info attempt registry request try #3 at 9:06:27 PM
+691 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+691 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+691 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+691 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+691 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+691 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+691 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+691 silly fetchPackageMetaData  error for karma-es6-shim@1.0.0 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+692 info attempt registry request try #3 at 9:06:27 PM
+693 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+693 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+693 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+693 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+693 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+693 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+693 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+693 silly fetchPackageMetaData  error for karma-junit-reporter@1.2.0 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+694 info attempt registry request try #3 at 9:06:27 PM
+695 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+695 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+695 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+695 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+695 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+695 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+695 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+695 silly fetchPackageMetaData  error for karma-mocha@1.3.0 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+696 info attempt registry request try #3 at 9:06:27 PM
+697 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+697 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+697 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+697 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+697 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+697 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+697 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+697 silly fetchPackageMetaData  error for karma-mocha-reporter@2.2.3 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+698 info attempt registry request try #3 at 9:06:27 PM
+699 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+699 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+699 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+699 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+699 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+699 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+699 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+699 silly fetchPackageMetaData  error for karma-phantomjs-launcher@1.0.4 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+700 info attempt registry request try #3 at 9:06:27 PM
+701 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+701 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+701 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+701 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+701 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+701 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+701 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+701 silly fetchPackageMetaData  error for karma-remap-coverage@0.1.4 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+702 info attempt registry request try #3 at 9:06:27 PM
+703 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+703 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+703 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+703 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+703 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+703 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+703 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+703 silly fetchPackageMetaData  error for karma-sinon@1.0.5 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+704 info attempt registry request try #3 at 9:06:27 PM
+705 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+705 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+705 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+705 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+705 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+705 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+705 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+705 silly fetchPackageMetaData  error for karma-source-map-support@1.2.0 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+706 info attempt registry request try #3 at 9:06:27 PM
+707 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+707 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+707 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+707 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+707 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+707 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+707 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+707 silly fetchPackageMetaData  error for karma-sourcemap-loader@0.3.7 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+708 info attempt registry request try #3 at 9:06:27 PM
+709 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+709 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+709 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+709 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+709 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+709 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+709 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+709 silly fetchPackageMetaData  error for karma-typescript@3.0.4 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+710 info attempt registry request try #3 at 9:06:27 PM
+711 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+711 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+711 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+711 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+711 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+711 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+711 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+711 silly fetchPackageMetaData  error for karma-webpack@2.0.3 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+712 info attempt registry request try #3 at 9:06:27 PM
+713 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+713 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+713 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+713 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+713 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+713 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+713 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+713 silly fetchPackageMetaData  error for mocha@3.4.2 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+714 info attempt registry request try #3 at 9:06:27 PM
+715 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+715 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+715 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+715 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+715 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+715 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+715 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+715 silly fetchPackageMetaData  error for enzyme@2.8.0 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+716 info attempt registry request try #3 at 9:06:27 PM
+717 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+717 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+717 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+717 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+717 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+717 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+717 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+717 silly fetchPackageMetaData  error for chai@4.0.2 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+718 info attempt registry request try #3 at 9:06:27 PM
+719 silly fetchPackageMetaData Error: This request requires auth credentials. Run `npm login` and repeat the request.
+719 silly fetchPackageMetaData     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+719 silly fetchPackageMetaData     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+719 silly fetchPackageMetaData     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+719 silly fetchPackageMetaData     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+719 silly fetchPackageMetaData     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+719 silly fetchPackageMetaData     at Timer.listOnTimeout (timers.js:92:15)
+719 silly fetchPackageMetaData  error for @types/mocha@2.2.41 [Error: This request requires auth credentials. Run `npm login` and repeat the request.]
+720 silly rollbackFailedOptional Starting
+721 silly rollbackFailedOptional Finishing
+722 silly runTopLevelLifecycles Starting
+723 silly runTopLevelLifecycles Finishing
+724 silly install printInstalled
+725 verbose stack Error: This request requires auth credentials. Run `npm login` and repeat the request.
+725 verbose stack     at CachingRegistryClient.authify (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\authify.js:17:14)
+725 verbose stack     at CachingRegistryClient.makeRequest (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:103:17)
+725 verbose stack     at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\request.js:66:17
+725 verbose stack     at RetryOperation._fn (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\npm-registry-client\lib\attempt.js:18:5)
+725 verbose stack     at null._onTimeout (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\External\node_modules\retry\lib\retry_operation.js:32:10)
+725 verbose stack     at Timer.listOnTimeout (timers.js:92:15)
+726 verbose cwd D:\Projects\AltaReturnTFS\AltaReturn Tools and Frameworks\Internal Tools\ReactTemplate\ReactTemplate
+727 error Windows_NT 10.0.15063
+728 error argv "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\Web\\External\\Node.exe" "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\Web\\External\\node_modules\\npm\\bin\\npm-cli.js" "install"
+729 error node v5.4.1
+730 error npm  v3.3.4
+731 error This request requires auth credentials. Run `npm login` and repeat the request.
+732 error If you need help, you may report this error at:
+732 error     <https://github.com/npm/npm/issues>
+733 verbose exit [ 1, true ]

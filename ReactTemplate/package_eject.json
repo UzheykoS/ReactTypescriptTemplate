@@ -1,0 +1,19 @@
+{
+  "version": "0.0.1",
+  "name": "vertice-frontend-template",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "dist/"
+  ],
+  "devDependencies": {},
+  "dependencies": {},
+  "scripts": {
+    "devpack": "SET NODE_ENV=development&& webpack -d",
+    "devpack:watch": "SET NODE_ENV=development&& webpack -d --watch",
+    "prodpack": "SET NODE_ENV=production&& webpack -p",
+    "test": "karma start",
+    "test-single": "karma start --singleRun",
+    "start": "http-server -p 3000 dist"
+  }
+}
