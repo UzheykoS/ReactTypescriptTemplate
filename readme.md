@@ -5,10 +5,9 @@
 Install template:
 1) create and navigate to folder for new component
 2) run `npm init` or create package.json file manually
-2a) don't forget to add `.npmrc` file to access Vertice npm feed
 3) install latest or specific template package version:
 ```
-npm install react-typescript-boilerplate@latest --no-save
+npm install r-ts-wp-template@latest --no-save
 ```
 4) install automatically added dependencies
 ```

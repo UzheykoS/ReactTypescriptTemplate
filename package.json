@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "name": "react-typescript-boilerplate",
+  "name": "r-ts-wp-template",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
