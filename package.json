@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.1 ",
   "name": "r-ts-wp-template",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -80,9 +80,9 @@
     "ncp": "^2.0.0"
   },
   "scripts": {
-    "devpack": "SET NODE_ENV=development&& webpack -d",
-    "devpack:watch": "SET NODE_ENV=development&& webpack -d --watch",
-    "prodpack": "SET NODE_ENV=production&& webpack -p",
+    "devpack": "SET NODE_ENV=development&& webpack --mode development",
+    "devpack:watch": "SET NODE_ENV=development&& webpack --mode development --watch",
+    "prodpack": "SET NODE_ENV=production&& webpack --mode production",
     "test": "karma start",
     "test-single": "karma start --singleRun",
     "start": "http-server -p 3000 dist",
