@@ -10,6 +10,17 @@ const config: Configuration = {
         libraryTarget: "umd"
     },
     target: 'web',
+    optimization: {
+        splitChunks: {
+            cacheGroups: {
+              commons: {
+                test: /[\\/]node_modules[\\/]/,
+                name: 'vendors',
+                chunks: 'all'
+              }
+            }
+          }
+    },
     module: {
         rules: [
             {

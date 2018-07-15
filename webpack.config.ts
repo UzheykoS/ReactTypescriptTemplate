@@ -28,20 +28,10 @@ if (environment === "production") {
             commonjs: 'axios',
             amd: 'axios',
             umd: 'axios'
-        },
-        'altareturn-ui-controls': {
-            root: 'altareturn-ui-controls',
-            commonjs2: 'altareturn-ui-controls',
-            commonjs: 'altareturn-ui-controls',
-            amd: 'altareturn-ui-controls',
-            umd: 'altareturn-ui-controls'
         }
     };
     commonConfig.externals = externals;
     commonConfig.devtool = 'source-map';
-    commonConfig.plugins.push(new UglifyJSPlugin({
-        sourceMap: true
-    }));
 } 
 else {
     commonConfig.entry = "./test/index.tsx";
